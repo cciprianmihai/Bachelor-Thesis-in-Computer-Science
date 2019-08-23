@@ -1,0 +1,17 @@
+img12_F4.jpg Grila: Fizica 4, [6 Matematica], [3 Fizica]. Nota finala: 3.7
+img16_F4.jpg Grila: Fizica 4, [10 Matematica], [13 Fizica]. Nota finala: 7.9
+img20_F4.jpg Grila: Fizica 4, [9 Matematica], [8 Fizica]. Nota finala: 6.1
+img33_F4.jpg Grila: Fizica 4, [13 Matematica], [13 Fizica]. Nota finala: 8.8
+img45_F4.jpg Grila: Fizica 4, [9 Matematica], [10 Fizica]. Nota finala: 6.7
+img65_F4.jpg Grila: Fizica 4, [10 Matematica], [9 Fizica]. Nota finala: 6.7
+img83_F4.jpg Grila: Fizica 4, [9 Matematica], [10 Fizica]. Nota finala: 6.7
+img85_F4.jpg Grila: Fizica 4, [6 Matematica], [7 Fizica]. Nota finala: 4.9
+img91_F4.jpg Grila: Fizica 4, [9 Matematica], [10 Fizica]. Nota finala: 6.7
+img103_F4.jpg Grila: Fizica 4, [11 Matematica], [8 Fizica]. Nota finala: 6.7
+img107_F4.jpg Grila: Fizica 4, [10 Matematica], [4 Fizica]. Nota finala: 5.2
+img112_F4.jpg Grila: Fizica 4, [9 Matematica], [9 Fizica]. Nota finala: 6.4
+img139_F4.jpg Grila: Fizica 4, [13 Matematica], [9 Fizica]. Nota finala: 7.6
+img148_F4.jpg Grila: Fizica 4, [12 Matematica], [12 Fizica]. Nota finala: 8.2
+img158_F4.jpg Grila: Fizica 4, [11 Matematica], [10 Fizica]. Nota finala: 7.3
+img164_F4.jpg Grila: Fizica 4, [7 Matematica], [7 Fizica]. Nota finala: 5.2
+img186_F4.jpg Grila: Fizica 4, [14 Matematica], [12 Fizica]. Nota finala: 8.8
